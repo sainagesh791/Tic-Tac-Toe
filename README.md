@@ -4,10 +4,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ##  Live Demo
 
+https://tic-tac-toe791.netlify.app/
 
-https://your-tic-tac-toe791.netlify.app
-
----
 
 ## 📌 Features
 
